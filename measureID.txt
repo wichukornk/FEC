@@ -1,0 +1,13 @@
+<option value="P001">ค่าเริ่มต้น</option>
+<option value="P002">ระบบทำน้ำเย็น Chiller เปลี่ยนเครื่องทำน้ำเย็นประสิทธิภาพสูง</option>
+<option value="P003">ระบบทำน้ำเย็น Chiller ปรับตั้งอุณภูมิน้ำเย็นให้เหมาะสม</option>
+<option value="P004">ระบบทำน้ำเย็น Cooling tower เปลี่ยนใบพัดประสิทธิภาพสูง</option>
+<option value="P005">ระบบทำน้ำเย็น Cooling tower เปลี่ยนมอเตอร์หอผึ่งเย็นประสิทธิภาพสูง</option>
+<option value="P006">ระบบหม้อน้ำ Boiler เปลี่ยนหม้อน้ำประสิทธิภาพสูง</option>
+<option value="P007">ระบบหม้อน้ำ ฺBoiler ปรับลดความดันให้เหมาะสม</option>
+<option value="P008">ระบบลมอัด Air compressor ปรับลดอุณหภูมิอากาศก่อนเข้าเครื่องอัดอากาศ</option>
+<option value="P009">ระบบลมอัด Air compressor ปรับลดความดันให้เหมาะสม</option>
+<option value="P010">ระบบลมอัด Air compressor เปลี่ยนเครื่องอัดอากาศประสิทธภาพสูง</option>
+<option value="P011">Pipe ปรับเปลี่ยนขนาดท่อให้เหมาะสม</option>
+<option value="P012">Pump ปรับอัตราการไหลให้เหมาะสม</option>
+<option value="P013">Pump เปลี่ยนปั๊มประสิทธิภาพสูง</option>
